@@ -6,7 +6,7 @@ This project presents an interactive YouTube analytics dashboard built using Goo
 The dashboard tracks key performance indicators and compares metrics for the **last 28 days vs the previous 28 days** to highlight growth, decline, and user engagement patterns.
 
 ## Dashboard Preview
-![YouTube Dashboard](YouTube_Analytics (2).jpg)
+![YouTube Dashboard](YouTube_Analytics.jpg)
 
 ## Key Metrics
 - Views  
